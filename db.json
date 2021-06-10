@@ -1,6 +1,6 @@
 {
     "users": [
         {"id": 0, "firstName": "Robert", "lastName": "Kyosaki"},
-        {"id": 0, "firstName": "Ruben", "lastName": "Blades"}
+        {"id": 1, "firstName": "Ruben", "lastName": "Blades"}
     ]
 }
